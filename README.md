@@ -12,3 +12,4 @@ Requirements to run it :
 The panel also runs on PHP 8.x, but I recommend 7.x (7.4).
 Image:
 
+![MIXPANEL](https://github.com/KiMimoz/mivpanelv1/blob/main/v1.png?raw=true)
